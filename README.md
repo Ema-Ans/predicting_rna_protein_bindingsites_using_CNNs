@@ -3,7 +3,7 @@
 CMU-Q; eansar@andrew.cmu.edu 5
 CMU-Q; szewil@andrew.cmu.edu 6
 
-# Abstract: 
+# Overall Explanation: 
 RNA-binding proteins (RBPs) play a crucial role in a range of cellular processes, includ- 7
 ing RNA splicing, stabilization, and localization, by binding to specific RNA sequences or struc- 8
 tures. The identification of RNA-protein binding sites is key to understanding gene expression 9
@@ -24,6 +24,20 @@ understanding of gene regulation, ultimately contributing to the advancement of 
 ogy and its applications in health and disease treatment. From our results, we see that our ap- 24
 proach does enhance predictive when compared with using just the global or local CNNs on their 25
 own. 
+
+![image](https://github.com/Ema-Ans/predicting_rna_protein_bindingsites_using_CNNs/assets/87119440/0e921ec8-be87-4614-bfc5-68046f96f085)
+
+![image](https://github.com/Ema-Ans/predicting_rna_protein_bindingsites_using_CNNs/assets/87119440/36bd2e76-78e3-4b92-aba5-c3513b7b0550)
+
+![image](https://github.com/Ema-Ans/predicting_rna_protein_bindingsites_using_CNNs/assets/87119440/99016949-c31b-419a-8d06-0b138cb7112a)
+
+![image](https://github.com/Ema-Ans/predicting_rna_protein_bindingsites_using_CNNs/assets/87119440/7b2388a3-69b1-4a51-a343-6e21358a66c9)
+
+![image](https://github.com/Ema-Ans/predicting_rna_protein_bindingsites_using_CNNs/assets/87119440/3c094160-aed6-4a79-a0a1-c1a6f99884e7)
+
+
+
+
 
 # References:
 1. Maticzka, D. et al. (2014) ‘GraphProt: Modeling binding preferences of RNA-binding proteins’, Genome Biology, 15(1). 204
