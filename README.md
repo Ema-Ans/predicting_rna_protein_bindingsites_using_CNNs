@@ -1,0 +1,2 @@
+# predicting_rna_protein_bindingsites_using_CNNs
+computational bio project
